@@ -1,0 +1,48 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "Hey!"
+    },
+    {
+      "question": "What is your Name ?",
+      "answer": "I am Stackie"
+    },
+    {
+      "question": "How old are you?",
+      "answer": "As a chatbot, I do not have an age. But, i was created on 2024-07-19"
+    },
+    {
+      "question": "what is the solution to the error in quest 1 ?",
+      "answer": "the solution is to re-install the modules properly as they have been recently updated ``[NOTE FROM uncomfyhalomacro | StackUp]``"
+    },
+    {
+      "question": "what is the solution to the error in the quest 2 of the second campaign ?",
+      "answer": "The solution is to use a cloud environment such as Gitpod or google cloud shell as the quest doesnt support other IDE's. ``[NOTE FROM suzaku | StackUp]``"
+    },
+    {
+      "question": "what to do if submission failed in quest 3?",
+      "answer": "Clear your browser cache, re-login to the StackUp portal, and verify that your public GitHub repository is set to Public before submitting. ``[NOTE FROM Ron | StackUp CM]``"
+    },
+    {
+      "question": "why am I getting unauthorized 401 error on terminal?",
+      "answer": "Make sure your API key was exported correctly in your environment variables using `export API_KEY=your_key_here`. ``[NOTE FROM Marcus | StackUp]``"
+    },
+    {
+      "question": "how long does quest reward distribution take?",
+      "answer": "Campaign rewards are usually reviewed and distributed within 7-14 working days after the campaign officially ends. ``[NOTE FROM Ron | StackUp CM]``"
+    },
+    {
+      "question": "what is the solution to npm install error in quest 4?",
+      "answer": "Try running `npm install --legacy-peer-deps` or delete your `node_modules` folder and `package-lock.json` before reinstalling. ``[NOTE FROM Zephyr | StackUp]``"
+    },
+    {
+      "question": "what is your name ?",
+      "answer": "My name is Stackie"
+    },
+    {
+      "question": "who made you?",
+      "answer": "Sakuta made me"
+    }
+  ]
+}

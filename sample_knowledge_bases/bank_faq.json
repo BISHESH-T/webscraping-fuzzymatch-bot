@@ -1,0 +1,36 @@
+{
+  "questions": [
+    {
+      "question": "how do I check my account balance?",
+      "answer": "You can view your real-time balance on the main Dashboard after logging into the web portal or mobile app."
+    },
+    {
+      "question": "what is my routing number?",
+      "answer": "Our routing number is 123456789. You can also find it printed on the bottom left corner of your physical checkbook."
+    },
+    {
+      "question": "how do I report a lost or stolen credit card?",
+      "answer": "Go to Accounts > Cards > Lock/Report Stolen immediately in the app, or call our emergency hotline at 1-800-555-0199."
+    },
+    {
+      "question": "how do I transfer money to another bank account?",
+      "answer": "Navigate to the 'Transfers & Payments' tab, select 'External Transfer', enter the recipient's routing and account number, and confirm with your OTP."
+    },
+    {
+      "question": "what are the daily ATM withdrawal limits?",
+      "answer": "Standard accounts have a daily ATM withdrawal limit of $1,000. Premium tier accounts have a limit of $3,000 per day."
+    },
+    {
+      "question": "how long do domestic wire transfers take?",
+      "answer": "Domestic wire transfers initiated before 3:00 PM EST are typically processed on the same business day."
+    },
+    {
+      "question": "what should I do if I forgot my password?",
+      "answer": "Click the 'Forgot Password?' link on the login page, enter your registered email address, and follow the password reset instructions sent to you."
+    },
+    {
+      "question": "how do I download my monthly account statement?",
+      "answer": "Go to Statements & Documents, choose your account, select the desired month, and click 'Download PDF'."
+    }
+  ]
+}

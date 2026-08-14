@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "how to activate virtual environment in windows?",
+      "answer": "Run `.\\venv\\Scripts\\activate` in your terminal or PowerShell."
+    },
+    {
+      "question": "pip command not found",
+      "answer": "Make sure Python is added to your PATH environment variables, or use `python -m pip` instead."
+    },
+    {
+      "question": "how to push code to github?",
+      "answer": "Run: `git add .`, then `git commit -m 'your message'`, and finally `git push origin main`."
+    },
+    {
+      "question": "what python version should I use?",
+      "answer": "We recommend using Python 3.10 or higher for compatibility with modern libraries."
+    }
+  ]
+}
